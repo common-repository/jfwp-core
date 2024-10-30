@@ -1,0 +1,5 @@
+<phpunit bootstrap="bootstrap.php" colors="true">
+    <testsuite name="jfPHP.Core">
+        <directory>jf/</directory>
+    </testsuite>
+</phpunit>
